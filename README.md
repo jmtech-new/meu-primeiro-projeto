@@ -1,2 +1,4 @@
-# meu-primeiro-projeto
-Só o basico para entender o funcionamento da plataforma.
+# Meu primeiro projeto
+
+Esse repositório é para estudos de programação.
+
